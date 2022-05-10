@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dj_database_url-0.5.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/gunicorn" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/gunicorn-20.1.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/psycopg2" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/psycopg2_binary-2.9.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/whitenoise" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/whitenoise-6.0.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Include" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

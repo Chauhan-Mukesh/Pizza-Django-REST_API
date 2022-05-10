@@ -13,9 +13,6 @@ r
 Bvenv/Lib/site-packages/python_decouple-3.6.dist-info/top_level.txt,2\6\26937d1b8c183df0c9b896adf0c42309649cf1fc
 j
 :venv/Lib/site-packages/python_decouple-3.6.dist-info/WHEEL,1\2\12debc4f7e67143ccdc638f4e0179b0ac7631e96
-:
-
-pizza/.env,b\4\b4a3467bc044ff3b3e49c1f4c6bdb6eff61db568
 F
 authentication/apps.py,f\7\f715eec42cf6d613bb95be72c53c1232e7c73fc1
 G
@@ -24,8 +21,6 @@ G
 orders/admin.py,d\9\d9efc05ce2527d6af826ca865059f2379c901566
 H
 authentication/models.py,8\6\862d6b6351f690858f44e6659a0da22f8bfae2d3
-@
-requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
 =
 pizza/wsgi.py,3\9\3940da5d44dc313c2930ed742f954f7996440e7c
 @
@@ -36,5 +31,3 @@ E
 orders/serializers.py,0\5\051506334f440fea02831fc0ad7a065cb30f7434
 M
 authentication/serializers.py,c\c\ccf77472fd77c786daf5ba66af3a2be07a2e0057
-A
-pizza/settings.py,0\f\0ff200d8689296f687a50f30ebebfe1a4343a161
