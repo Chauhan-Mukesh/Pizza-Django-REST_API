@@ -10,6 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/whitenoise" />
       <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/whitenoise-6.0.0.dist-info" />
       <excludeFolder url="file://$MODULE_DIR$/venv/Include" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/f" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
